@@ -121,12 +121,12 @@ body {
 
 ::selection {
   background: #99BC85;
-  color: #fff;
+  color: #99BC85;
 }
 
 ::-moz-selection {
   background: #99BC85;
-  color: #fff;
+  color: #99BC85;
 }
 
 .section {
@@ -1231,7 +1231,7 @@ Contact Style
 }
 
 .contact .section-heading h2 {
-  color: #99BC85;
+  color: #FDFAF6;
 }
 
 .contact-content {
@@ -1296,7 +1296,7 @@ Contact Style
   width: 100%;
   height: 44px;
   border-radius: 22px;
-  background-color: #99BC85;
+  background-color: #FDFAF6;
   border: none;
   margin-bottom: 30px;
   font-size: 14px;
