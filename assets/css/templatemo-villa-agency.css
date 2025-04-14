@@ -88,7 +88,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #1e1e1e;
+  color: #99BC85;
   margin-top: 0px;
   margin-bottom: 0px;
   font-weight: 700;
@@ -101,7 +101,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 28px;
-  color: #4a4a4a;
+  color: #99BC85;
 }
 
 img {
@@ -120,12 +120,12 @@ body {
 }
 
 ::selection {
-  background: #0071f8;
+  background: #99BC85;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #0071f8;
+  background: #99BC85;
   color: #fff;
 }
 
@@ -147,11 +147,11 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #0071f8;
+  color: #99BC85;
 }
 
 .section-heading h6 {
-  color: #ee626b;
+  color: #FAF1E6;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 700;
@@ -171,7 +171,7 @@ body {
 }
 
 .icon-button a i {
-  background-color: rgb(0, 160, 48);
+  background-color: #99BC85;
   height: 50px;
   width: 50px;
   text-align: center;
@@ -183,7 +183,7 @@ body {
 }
 
 .icon-button a:hover {
-  color: rgb(0, 160, 48);
+  color: #99BC85;
 }
 
 .icon-button a:hover i {
@@ -192,8 +192,8 @@ body {
 
 .main-button a {
   display: inline-block;
-  background-color: #FAF1E6;
-  color: #112A46;
+  background-color: #1e1e1e;
+  color: #fff;
   font-size: 14px;
   font-weight: 500;
   height: 40px;
@@ -204,8 +204,8 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #E4EFE7;
-  color: #112A46;
+  background-color: #99BC85;
+  color: #fff;
 }
 
 /* 
@@ -281,7 +281,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: rgb(0, 160, 48);
+  background: #99BC85;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -304,7 +304,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: rgb(0, 160, 48);
+  background: #99BC85;
   border-radius: 50%;
 }
 
@@ -348,12 +348,12 @@ Header Style
 }
 
 .sub-header ul.social-links li a:hover {
-  background-color: rgb(0, 160, 48);
+  background-color: #99BC85;
 }
 
 .sub-header ul.info li {
   font-size: 14px;
-  color: #7a7a7a;
+  color: #FAF1E6;
   border-right: 1px solid #eee;
   margin-right: 25px;
   padding-right: 25px;
@@ -367,7 +367,7 @@ Header Style
 
 .sub-header ul.info li i {
   font-size: 20px;
-  color: rgb(0, 160, 48);
+  color: #99BC85;
   margin-right: 8px;
 }
 
@@ -474,7 +474,7 @@ Header Style
 }
 
 .header-area .main-nav .nav li:last-child a i {
-  background-color: hwb(96 60% 0%);
+  background-color: #99BC85;
   display: inline-block;
   width: 40px;
   height: 40px;
@@ -494,16 +494,16 @@ Header Style
 }
 
 .header-area .main-nav .nav li:hover a {
-  color: hwb(96 60% 0%);
+  color: #99BC85;
 }
 
 .header-area .main-nav .nav li a.active {
-  color: hwb(96 60% 0%);
+  color: #99BC85;
 }
 
 
 .background-header .main-nav .nav li a.active {
-  color: hwb(96 60% 0%);
+  color: #99BC85;
 }
 
 .header-area .main-nav .menu-trigger {
@@ -713,7 +713,7 @@ Header Style
     margin-left: 0px;
   }
   .header-area .main-nav .nav li:first-child {
-    border-top: 1px solid #002911;
+    border-top: 1px solid #99BC85;
   }
   .header-area.header-sticky .nav {
     margin-top: 80px !important;
@@ -723,7 +723,7 @@ Header Style
   }
   .header-area .main-nav .nav li {
     width: 100%;
-    background: #002911;
+    background: #99BC85;
     padding-left: 0px !important;
     padding-right: 0px !important;
   }
@@ -757,7 +757,7 @@ Banner Style
 }
 
 .main-banner .item span.category {
-  background-color: #002911;
+  background-color: #99BC85;
   color: #1e1e1e;
   font-size: 16px;
   font-weight: 500;
@@ -769,14 +769,14 @@ Banner Style
 
 .main-banner .item span.category em {
   font-style: normal;
-  color:  hwb(96 60% 0%);
+  color:  #99BC85;
 }
 
 .main-banner .item h2 {
   font-size: 62px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #002911;
+  color: #99BC85;
   line-height: 72px;
   width: 50%;
   margin-bottom: 0px;
@@ -791,14 +791,14 @@ Banner Style
 .main-banner .owl-dots .owl-dot {
   width: 10px;
   height: 10px;
-  background-color: #002911;
+  background-color: #99BC85;
   border-radius: 50%;
   margin-right: 10px;
   transition: all .5s;
 }
 
 .main-banner .owl-dots .active {
-  background-color:  hwb(96 60% 0%);
+  background-color:  #FAF1E6;
 }
 
 .main-banner .owl-nav {
@@ -815,8 +815,8 @@ Banner Style
   line-height: 50px;
   font-size: 24px;
   display: inline-block;
-  color: #002911;
-  background-color: rgba(255, 255, 255, 0.2);
+  color: #99BC85;
+  background-color: #FAF1E6;
   border-radius: 50%;
   opacity: 1;
   transition: all .3s;
@@ -835,7 +835,7 @@ Banner Style
 .main-banner .owl-nav .owl-prev i:hover,
 .main-banner .owl-nav .owl-next i:hover {
   opacity: 1;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: #FAF1E6;
 }
 
 
@@ -859,7 +859,7 @@ Featured Style
   width: 110px;
   height: 110px;
   line-height: 110px;
-  background-color:  hwb(96 60% 0%);
+  background-color:  #99BC85;
   border-radius: 50%;
   text-align: center;
   position: absolute;
@@ -882,13 +882,13 @@ Featured Style
   margin-right: 10px;
   --bs-accordion-border-radius: 10px;
   --bs-accordion-inner-border-radius: 10px;
-  --bs-accordion-bg: #002911;
+  --bs-accordion-bg: #99BC85;
   --bs-accordion-border-color: none;
   border: none !important;
 }
 
 .featured .accordion-header {
-  border-bottom: 1px solid #002911;
+  border-bottom: 1px solid #99BC85;
 }
 
 .featured .accordion-button {
@@ -899,8 +899,8 @@ Featured Style
 }
 
 .featured .accordion-button:not(.collapsed) {
-  color: hwb(96 60% 0%);
-  background-color: #002911;
+  color: #FDFAF6;
+  background-color: #99BC85;
   outline: none;
 }
 
@@ -913,7 +913,7 @@ Featured Style
 }
 
 .featured .accordion-item:last-of-type .accordion-collapse {
-  border-top: 1px solid #002911;
+  border-top: 1px solid #99BC85;
 }
 
 .featured .info-table {
@@ -926,7 +926,7 @@ Featured Style
   display: block;
   margin-bottom: 35px;
   padding-bottom: 35px;
-  border-bottom: 1px solid #002911;
+  border-bottom: 1px solid #99BC85;
 }
 
 .featured .info-table ul li:last-child {
@@ -947,7 +947,7 @@ Featured Style
 
 .featured .info-table ul li h4 span {
   font-size: 15px;
-  color: #aaa;
+  color: #FAF1E6;
   font-weight: 400;
 }
 
@@ -971,7 +971,7 @@ Video Style
 }
 
 .video .section-heading h2 {
-  color: #002911;
+  color: #99BC85;
 }
 
 .video-content .video-frame {
@@ -991,13 +991,13 @@ Video Style
   transform: translate(-26px, -26px);
   width: 52px;
   height: 52px;
-  background-color: #002911;
+  background-color: #99BC85;
   border-radius: 50%;
   display: inline-block;
   text-align: center;
   line-height: 52px;
-  color:  hwb(96 60% 0%);
-  outline: 15px solid  hwb(96 60% 0%);
+  color:  #FDFAF6;
+  outline: 15px solid  #FDFAF6;
   font-size: 18px;
 }
 
@@ -1013,7 +1013,7 @@ Fun Facts Style
 }
 
 .fun-facts .counter {
-  background-color: #002911;
+  background-color: #99BC85;
   position: relative;
   border-radius: 10px;
   width: 270px;
@@ -1038,7 +1038,7 @@ Fun Facts Style
 .fun-facts .counter h2 {
   margin-right: 25px;
   font-size: 40px;
-  color:  hwb(96 60% 0%);
+  color:  #FAF1E6;
 }
 
 .fun-facts .counter:after {
@@ -1186,7 +1186,7 @@ Properties Style
 .properties .item ul li {
   display: inline-block;
   font-size: 15px;
-  color: #4a4a4a;
+  color: #E4EFE7;
   margin-right: 20px;
 }
 
@@ -1203,7 +1203,7 @@ Properties Style
 
 .properties .item h6 {
   font-size: 20px;
-  color:  hwb(96 60% 0%);
+  color:  #99BC85;
   margin-top: 6px;
   display: inline-block;
   float: right;
@@ -1274,7 +1274,7 @@ Contact Style
 
 .contact-content .item h6 span {
   font-size: 15px;
-  color: #aaaaaa;
+  color: #FAF1E6;
   font-weight: 400;
 }
 
@@ -1328,7 +1328,7 @@ Contact Style
 }
 
 .contact-content #contact-form button:hover {
-  background-color:  hwb(96 60% 0%);
+  background-color:  #99BC85;
 }
 
 
@@ -1548,7 +1548,7 @@ Single Page Style
 }
 
 .single-property .accordion-item:last-of-type .accordion-collapse {
-  border-top: 1px solid #002911;
+  border-top: 1px solid #99BC85;
 }
 
 .single-property .info-table {
@@ -1583,7 +1583,7 @@ Single Page Style
 
 .single-property .info-table ul li h4 span {
   font-size: 15px;
-  color: #aaa;
+  color: #FDFAF6;
   font-weight: 400;
 }
 
@@ -1634,7 +1634,7 @@ Contact Page Style
 
 .contact-page .item h6 span {
   font-size: 15px;
-  color: #aaaaaa;
+  color: #FDFAF6;
   font-weight: 400;
 }
 
@@ -1648,7 +1648,7 @@ Contact Page Style
 
 .contact-page #contact-form label {
   font-size: 15px;
-  color: #3a3a3a;
+  color: #E4EFE7;
   margin-bottom: 15px;
 }
 
@@ -1688,7 +1688,7 @@ Contact Page Style
 }
 
 .contact-page #contact-form button:hover {
-  background-color: hwb(96 60% 0%);
+  background-color: #99BC85;
 }
 
 

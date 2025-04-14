@@ -34,7 +34,7 @@
 .flexslider {
   margin: 0;
   padding: 0;
-  background: #003f1f;
+  background: hsl(150, 100%, 12%);
   border: 4px solid #003f1f;
   position: relative;
   border-radius: 4px;
