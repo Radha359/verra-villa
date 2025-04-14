@@ -192,8 +192,8 @@ body {
 
 .main-button a {
   display: inline-block;
-  background-color: #1e1e1e;
-  color: #fff;
+  background-color: #FAF1E6;
+  color: #112A46;
   font-size: 14px;
   font-weight: 500;
   height: 40px;
@@ -204,8 +204,8 @@ body {
 }
 
 .main-button a:hover {
-  background-color: rgb(0, 160, 48);
-  color: #fff;
+  background-color: #E4EFE7;
+  color: #112A46;
 }
 
 /* 
@@ -1153,7 +1153,7 @@ Properties Style
 */
 
 .properties .item {
-  background-color: #002911;
+  background-color: #99BC85;
   border-radius: 10px;
   padding: 30px;
   margin-bottom: 30px;
