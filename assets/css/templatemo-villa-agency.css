@@ -121,12 +121,12 @@ body {
 
 ::selection {
   background: #99BC85;
-  color: #99BC85;
+  color: #FAF1E6;
 }
 
 ::-moz-selection {
   background: #99BC85;
-  color: #99BC85;
+  color: #FAF1E6;
 }
 
 .section {
@@ -338,7 +338,7 @@ Header Style
   display: inline-block;
   width: 30px;
   height: 30px;
-  background-color: #cdcdcd;
+  background-color: #E4EFE7;
   border-radius: 50%;
   text-align: center;
   line-height: 30px;
@@ -348,7 +348,7 @@ Header Style
 }
 
 .sub-header ul.social-links li a:hover {
-  background-color: #99BC85;
+  background-color: #E4EFE7;
 }
 
 .sub-header ul.info li {
@@ -367,7 +367,7 @@ Header Style
 
 .sub-header ul.info li i {
   font-size: 20px;
-  color: #99BC85;
+  color: #E4EFE7;
   margin-right: 8px;
 }
 
@@ -494,11 +494,11 @@ Header Style
 }
 
 .header-area .main-nav .nav li:hover a {
-  color: #99BC85;
+  color: #000000;
 }
 
 .header-area .main-nav .nav li a.active {
-  color: #99BC85;
+  color: #000000;
 }
 
 
@@ -646,7 +646,7 @@ Header Style
   }
   .background-header .main-nav .nav li,
   .header-area .main-nav .nav li {
-    border-top: 1px solid #99BC85;
+    border-top: 1px solid #000000;
     background-color: #99BC85;
     height: 50px;
     border-radius: 0px 0px 25px 25px;
@@ -673,7 +673,7 @@ Header Style
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: hwb(96 60% 0%)!important;
+    color: #99BC85 !important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
