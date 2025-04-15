@@ -101,7 +101,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 28px;
-  color: #99BC85;
+  color: #000000;
 }
 
 img {
@@ -486,7 +486,7 @@ Header Style
 }
 
 .header-area .main-nav .nav li:last-child:hover a {
-  background-color: #1e1e1e;
+  background-color: #000000;
 }
 
 .header-area .main-nav .nav li:last-child:hover a i {
@@ -640,7 +640,7 @@ Header Style
     line-height: 50px;
     height: 50px;
     font-weight: 400;
-    color: #1e1e1e;
+    color: #000000;
     background-color: #99BC85;
      border-radius: 0px 0px 25px 25px;
   }
@@ -673,7 +673,7 @@ Header Style
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #99BC85 !important;
+    color: #000000 !important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -1112,7 +1112,7 @@ Best Deal Style
   border-bottom: 1px solid #99BC85;
   text-align: left;
   font-size: 15px;
-  color: #aaa;
+  color: #000000;
   font-weight: 400;
 }
 
@@ -1288,7 +1288,7 @@ Contact Style
 
 .contact-content #contact-form label {
   font-size: 15px;
-  color: #3a3a3a;
+  color: #000000;
   margin-bottom: 15px;
 }
 
@@ -1437,7 +1437,7 @@ Properties Style
 }
 
 .properties ul.properties-filter li a.is_active {
-  background-color:  hwb(96 60% 0%);
+  background-color:  #99BC85;
   color: #99BC85;
 }
 
@@ -1446,7 +1446,7 @@ Properties Style
 }
 
 .properties ul.properties-filter li a:hover {
-  color:  hwb(96 60% 0%);
+  color:  #99BC85;
 }
 
 .properties ul.pagination {
@@ -1478,7 +1478,7 @@ Properties Style
 .properties ul.pagination li a:hover,
 .properties ul.pagination li a.is_active {
   background-color:  hwb(96 60% 0%);
-  color: #002911;
+  color: #99BC85;
 }
 
 
